@@ -20,20 +20,6 @@ Notebook responsável por:
 
 ---
 
-## 📂 Conteúdo do repositório
-
-fabric-spark-medallion-pipeline/
-│
-├── prata/
-│ └── prata_cv_sanitized.ipynb ← notebook da camada PRATA (versão segura)
-├── README.md
-└── .gitignore
-
-yaml
-Copy code
-
----
-
 ## 🧠 Tecnologias utilizadas
 
 - **PySpark (Spark 3.x)**
