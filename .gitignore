@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Credenciais
+creds.py
+*.env
+*.ini
+*.key
+*.secret
+*.token
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Spark / Fabric
+*.crc
+*.snappy
+*.parquet
+*.delta
